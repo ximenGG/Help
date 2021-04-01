@@ -262,9 +262,9 @@ This line is only separated by a single newline, so it's a separate line in the 
 They can't be added directly but you can add an image with a link to the video like this:
 
 <a href="https://www.youtube.com/watch?v=BlI9PVQA8ZA&t=335s
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="https://lh6.googleusercontent.com/proxy/fGw98Dpe9GBNTK9teNuCkGeTxF2saQvT6Jpayv35SefywCBf1xT6lCFRgkQesJY1HMTnPH4aAfjImbwuvp6eqM9GVmNuCo3VVRt5uQHMPmf0BRC_V9B-7JE7WiDpA7STOday3n_vOrBQ3Kw" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 Or, in pure Markdown, but losing the image sizing and border:
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://lh6.googleusercontent.com/proxy/fGw98Dpe9GBNTK9teNuCkGeTxF2saQvT6Jpayv35SefywCBf1xT6lCFRgkQesJY1HMTnPH4aAfjImbwuvp6eqM9GVmNuCo3VVRt5uQHMPmf0BRC_V9B-7JE7WiDpA7STOday3n_vOrBQ3Kw)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
